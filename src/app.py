@@ -16,6 +16,8 @@ def index():
         "electrictesla": "images/electrictesla/logo.png",
         "electricford": "images/electricford/logo.png",
         "electrichyundai": "images/electrichyundai/logo.png",
+        "electricall": "images/electric/logo.png",
+        "gasolineall": "images/gasoline/logo.png"
     }
 
     if request.method == "POST":
